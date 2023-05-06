@@ -1,0 +1,5 @@
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+mot de passe:bandit0
+ls
+cat readme
+NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
